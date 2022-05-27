@@ -9,6 +9,8 @@
 ## Description
 _This is a very basic landing page created to showcase our new skills in using classes to achieve desired styles. Unfortunately, no work has been accomplish to date_
 
+_Link to assignment: https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-styling-with-classes_
+
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
